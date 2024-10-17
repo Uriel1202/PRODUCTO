@@ -70,7 +70,7 @@ if (!empty($_SESSION['activa'])) {
       </div>
       <div class="col" style="background-color: #9fd6d2;">
         <div class="row">
-          <h1 style="color: #343a40;">Guadalupe Uriel Gomez Pinto</h1>
+          <h1 style="color: #343a40;">Guadalupe Uriel Gomez Pinto El Chinooo</h1>
         </div>
         <form style="padding: 26px;" method="POST">
           <div>
