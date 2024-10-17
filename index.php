@@ -79,7 +79,7 @@ if (!empty($_SESSION['activa'])) {
           <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Correo Electronico</label>
             <input type="email" class="form-control" id="correo" aria-describedby="emailHelp" name="correo">
-            <div id="emailHelp" class="form-text">Evitar no Compartir tu Correo Electronico a Externos</div>
+            <div id="emailHelp" class="form-text">No Compartas tu Correo Electronico a Externos</div>
           </div>
           <div class="mb-3">
             <label for="exampleInputPassword1" class="form-label">Contraseña</label>
